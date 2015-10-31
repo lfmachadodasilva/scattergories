@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/construcao_sistemas/!svn/ver/37/trunk/src/tratamento_erro
+END
+TemasInsuficientesException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/construcao_sistemas/!svn/ver/15/trunk/src/tratamento_erro/TemasInsuficientesException.java
+END
+LetrasInsuficientesException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/construcao_sistemas/!svn/ver/27/trunk/src/tratamento_erro/LetrasInsuficientesException.java
+END
+JogadorNaoProntoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/construcao_sistemas/!svn/ver/36/trunk/src/tratamento_erro/JogadorNaoProntoException.java
+END
+TemasNumeroMaiorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/construcao_sistemas/!svn/ver/27/trunk/src/tratamento_erro/TemasNumeroMaiorException.java
+END
+TratadorErro.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/construcao_sistemas/!svn/ver/4/trunk/src/tratamento_erro/TratadorErro.java
+END
+ErroComunicacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/construcao_sistemas/!svn/ver/15/trunk/src/tratamento_erro/ErroComunicacao.java
+END
+JogadorNaoConcordaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/construcao_sistemas/!svn/ver/37/trunk/src/tratamento_erro/JogadorNaoConcordaException.java
+END
+ErroDeProgramacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/construcao_sistemas/!svn/ver/4/trunk/src/tratamento_erro/ErroDeProgramacao.java
+END

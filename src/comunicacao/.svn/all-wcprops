@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/construcao_sistemas/!svn/ver/44/trunk/src/comunicacao
+END
+IRemoteClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/construcao_sistemas/!svn/ver/37/trunk/src/comunicacao/IRemoteClient.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/construcao_sistemas/!svn/ver/44/trunk/src/comunicacao/Server.java
+END
+IRemoteServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/construcao_sistemas/!svn/ver/40/trunk/src/comunicacao/IRemoteServer.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/construcao_sistemas/!svn/ver/37/trunk/src/comunicacao/Client.java
+END

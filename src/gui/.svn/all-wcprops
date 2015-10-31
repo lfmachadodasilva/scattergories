@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/construcao_sistemas/!svn/ver/44/trunk/src/gui
+END
+TelaInicial.form
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/construcao_sistemas/!svn/ver/42/trunk/src/gui/TelaInicial.form
+END
+TelaSugestaoCategoria.form
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/construcao_sistemas/!svn/ver/19/trunk/src/gui/TelaSugestaoCategoria.form
+END
+TelaVotacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/construcao_sistemas/!svn/ver/44/trunk/src/gui/TelaVotacao.java
+END
+TelaResultadoParcial.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/construcao_sistemas/!svn/ver/40/trunk/src/gui/TelaResultadoParcial.java
+END
+TelaResultadoFinal.form
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/construcao_sistemas/!svn/ver/40/trunk/src/gui/TelaResultadoFinal.form
+END
+TelaJogo.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/construcao_sistemas/!svn/ver/31/trunk/src/gui/TelaJogo.java
+END
+TelaConfiguracao.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/construcao_sistemas/!svn/ver/38/trunk/src/gui/TelaConfiguracao.java
+END
+PanelTema.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/construcao_sistemas/!svn/ver/31/trunk/src/gui/PanelTema.java
+END
+PanelVotacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/construcao_sistemas/!svn/ver/39/trunk/src/gui/PanelVotacao.java
+END
+TelaInicial.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/construcao_sistemas/!svn/ver/42/trunk/src/gui/TelaInicial.java
+END
+TelaSugestaoCategoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/construcao_sistemas/!svn/ver/19/trunk/src/gui/TelaSugestaoCategoria.java
+END
+TelaResultadoFinal.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/construcao_sistemas/!svn/ver/40/trunk/src/gui/TelaResultadoFinal.java
+END
+TelaVotacao.form
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/construcao_sistemas/!svn/ver/39/trunk/src/gui/TelaVotacao.form
+END
+TelaResultadoParcial.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/construcao_sistemas/!svn/ver/40/trunk/src/gui/TelaResultadoParcial.form
+END
+TelaJogo.form
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/construcao_sistemas/!svn/ver/20/trunk/src/gui/TelaJogo.form
+END
+TelaConfiguracao.form
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/construcao_sistemas/!svn/ver/38/trunk/src/gui/TelaConfiguracao.form
+END
+PanelTema.form
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/construcao_sistemas/!svn/ver/19/trunk/src/gui/PanelTema.form
+END
+PanelVotacao.form
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/construcao_sistemas/!svn/ver/23/trunk/src/gui/PanelVotacao.form
+END

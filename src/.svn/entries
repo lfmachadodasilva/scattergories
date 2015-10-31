@@ -1,0 +1,55 @@
+9
+
+dir
+44
+http://construcao-de-sistemas.svn.beanstalkapp.com/construcao_sistemas/trunk/src
+http://construcao-de-sistemas.svn.beanstalkapp.com/construcao_sistemas
+
+
+
+2010-06-29T23:53:51.049785Z
+44
+thyagocl
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4b183349-aca5-4c72-9426-5d67dcde3d88
+
+state
+dir
+
+comunicacao
+dir
+
+controller
+dir
+
+gui
+dir
+
+adedanha
+dir
+
+bd
+dir
+
+tratamento_erro
+dir
+
+especialistas
+dir
+
+Construcao_alternativa
+dir
+

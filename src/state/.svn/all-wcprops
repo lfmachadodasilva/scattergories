@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/construcao_sistemas/!svn/ver/44/trunk/src/state
+END
+NovaMensagem.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/construcao_sistemas/!svn/ver/14/trunk/src/state/NovaMensagem.java
+END
+StopRodada.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/construcao_sistemas/!svn/ver/33/trunk/src/state/StopRodada.java
+END
+ConfirmacaoConfiguracao.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/construcao_sistemas/!svn/ver/15/trunk/src/state/ConfirmacaoConfiguracao.java
+END
+AtualizacaoJogador.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/construcao_sistemas/!svn/ver/14/trunk/src/state/AtualizacaoJogador.java
+END
+ComecoJogo.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/construcao_sistemas/!svn/ver/43/trunk/src/state/ComecoJogo.java
+END
+FimRodada.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/construcao_sistemas/!svn/ver/40/trunk/src/state/FimRodada.java
+END
+IState.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/construcao_sistemas/!svn/ver/14/trunk/src/state/IState.java
+END
+AtualizacaoConfiguracao.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/construcao_sistemas/!svn/ver/15/trunk/src/state/AtualizacaoConfiguracao.java
+END
+InicioValidacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/construcao_sistemas/!svn/ver/33/trunk/src/state/InicioValidacao.java
+END
+NovaRodada.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/construcao_sistemas/!svn/ver/44/trunk/src/state/NovaRodada.java
+END
