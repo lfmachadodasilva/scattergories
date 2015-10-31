@@ -2,7 +2,7 @@
 
 Scattergories game using Java, distributed systems and database
 
-<p align="center"><img src="figura7.PNG" width="500px"/></p>
+<p align="center"><img src="figura7.JPG" width="500px"/></p>
 
 <p align="center"><img src="figura1.PNG" width="400px"/></p>
 
